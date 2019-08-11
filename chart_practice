@@ -1,3 +1,4 @@
+#references the titanic.csv file to create the graphs
 import seaborn as sns
 import matplotlib.pyplot as plt
 
